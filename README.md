@@ -3,3 +3,5 @@ test of the SAP Web IDE - Quick start application - Developing Web Apps with SAP
 
 - convert WEB IDE project to Eclipse and upload to github 
   openSAP - no template project and no backend connection 
+
+archived 
